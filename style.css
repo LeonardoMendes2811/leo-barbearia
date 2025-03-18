@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(194, 194, 194);
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+b {
+    color: rgb(1, 17, 110);
+}
+
+main {
+    background-color: rgb(145, 144, 144);
+}
+
+#carro {
+    width: 100%;
+}
+
+b2 {
+    color: rgb(150, 3, 3);
+}

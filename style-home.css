@@ -27,7 +27,9 @@ main {
 }
 
 #carro {
+
     width: 100%;
+ 
 }
 
 b2 {
@@ -87,14 +89,17 @@ nav {
 }
 
 
+.logo.car, img {
+    width: 240px;
 
 
-.logo0, img {
+}
 
-   left: -550px;
-  width: 240px;
-
-
+.logo-principal {
+    position: relative;
+    left: -550px;
+    width: 240px;
+    
 }
 
 
